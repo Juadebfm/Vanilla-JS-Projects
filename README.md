@@ -169,7 +169,7 @@ _Estimated time: Less than 30 minutes_.
 
 ---
 
-<h5 align="center">Step 7: Submit a PR(Pull Request)</h5>
+<h5 align="center">Step 7: Submit a PR</h5>
 
 - This is the moment you have been waiting for; submitting a _Pull Request_ (PR).
 - So far all the work you have done has been on the fork of the project, which as you remember resides on your own account of GitHub.
