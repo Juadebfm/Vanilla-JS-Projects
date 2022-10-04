@@ -156,9 +156,9 @@ _Estimated time: Less than 30 minutes_.
 - This means that Git has recorded all the **saved** changes.
 - You can see this reflected in the app. Everything you have added to the file will be in green, and deletions will show as red.
 
-| <ul><li>The next step is called _Commit_</li><li>This roughly means "confirm the changes"</li></ul> | ![Commit changes](/assets/commit.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left") |
+| <ul><li>The next step is called _Commit_</li><li>This roughly means "confirm the changes"</li></ul>![Commit changes](/assets/commit.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left")
 
-| <ul><li>To _Commit_ you must fill in the _Summary_ field</li><li>This is the commit message explaining what you have changed</li><li>In this case "Add my information" would be a reasonable message</li><li>Optionally you can add a more detailed _Description_</li><li>Click the _Commit_ button. Your button will say something like `Commit to "your-branch-name"`</li></ul> |
+<ul><li>To _Commit_ you must fill in the _Summary_ field</li><li>This is the commit message explaining what you have changed</li><li>In this case "Add my information" would be a reasonable message</li><li>Optionally you can add a more detailed _Description_</li><li>Click the _Commit_ button. Your button will say something like `Commit to "your-branch-name"`</li></ul>
 
 <h5 align="center">Step 6: Push your changes to GitHub</h5>
 
