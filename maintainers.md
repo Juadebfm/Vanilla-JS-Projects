@@ -2,8 +2,6 @@
 
 This guide is for those who would like to join the project as maintainers, to help manage and maintain the project for the community. (This is not a guide for **first-time contributors**)
 
-This tutorial is also available in [other languages](translations/translation.md)
-
 ## Objectives
 
 Our main objective is to give our contributors the quickest feedback possible from the point they make their pull request. This primarily means giving code reviews, and merging accepted PRs.  
