@@ -50,19 +50,11 @@ If you are a new developer and you are wondering if you need to learn Git and Gi
 
 For everyone forking this repo, you have to contribute to the contributors list as shown above or else your PRʻs will not be accepted. [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ "https://syknapse.github.io/Contribute-To-This-Project"). It will include your name, your socials as shown above.
 
-You will make a copy of the card template inside the HTML file and customise it with your own information.
+You will customise the first example with your own information.
 
 # [If you're comfortable with the terminal go to this tutorial](/terminal-tutorial.md)
 
 <h4 align="center">Translations</h4>
-
-This tutorial is also available in [other languages](translations/translation.md)
-
-| [Arabic](translations/README/ARABIC.md)         | [French](translations/README/FRENCH.md)   | [German](translations/README/German.md)   | [Italian](translations/README/ITALIAN.md) | [Korean](translations/README/KOREAN.md) | [Polish](translations/README/POLISH.md) |
-| ----------------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| [Portuguese](translations/README/PORTUGUESE.md) | [Serbian](translations/README/SERBIAN.md) | [Spanish](translations/README/SPANISH.md) | [Turkish](translations/README/TURKISH.md) | [Bangla](translations/README/BANGLA.md) | English                                 |
-
-> Translations for either this README or the maintainer README file are very welcome!.
 
 <h4 align="center">Quick Access Index</h4>
 
