@@ -1,18 +1,32 @@
 # Quick Access Index
 
-- [**Contribute**](#contribution-steps)
-- [**Next Steps**](#next-steps)
-- [**Aknowledgements**](#aknowledgements)
+- [Quick Access Index](#quick-access-index)
+- [Contribution Steps](#contribution-steps)
+- [Setup](#setup)
+- [Fork This Repository](#fork-this-repository)
+- [Clone the repository](#clone-the-repository)
+- [Create a new branch](#create-a-new-branch)
+- [Open the contributors.md file first](#open-the-contributorsmd-file-first)
+- [Apply your changes](#apply-your-changes)
+  - [We'll now start editing contributors.md (and other additional files you might have added), changing the customizable lines as advised.](#well-now-start-editing-contributorsmd-and-other-additional-files-you-might-have-added-changing-the-customizable-lines-as-advised)
+- [Commit your changes](#commit-your-changes)
+- [Push your changes to github](#push-your-changes-to-github)
+- [Submit a PR(Pull Request)](#submit-a-prpull-request)
+- [Celebrate](#celebrate)
+- [Next Steps](#next-steps)
+- [Aknowledgements](#aknowledgements)
+- [Project Info](#project-info)
+- [Maintainers](#maintainers)
 
 # Contribution Steps
 
 - [Quick Access Index](#quick-access-index)
 - [Contribution Steps](#contribution-steps)
 - [Setup](#setup)
-- [Step 1 Fork This Repository](#step-1-fork-this-repository)
+- [Fork This Repository](#fork-this-repository)
 - [Clone the repository](#clone-the-repository)
 - [Create a new branch](#create-a-new-branch)
-- [Open the contributos.md file first](#open-the-contributosmd-file-first)
+- [Open the contributors.md file first](#open-the-contributorsmd-file-first)
 - [Apply your changes](#apply-your-changes)
   - [We'll now start editing contributors.md (and other additional files you might have added), changing the customizable lines as advised.](#well-now-start-editing-contributorsmd-and-other-additional-files-you-might-have-added-changing-the-customizable-lines-as-advised)
 - [Commit your changes](#commit-your-changes)
@@ -27,13 +41,13 @@
 # Setup
 
 First let's get setup to do the work.
-If you're not good with the command line interface [here is the GUI tutorial using github desktop](./README.md)
+If you're not good with the command line interface [here is the GUI tutorial using github desktop](/README.md)
 
 - If you dont have git [install it from here](https://git-scm.com)
 
-# Step 1 Fork This Repository
+# Fork This Repository
 
-<img align="right" width="300" src="./readme-only/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="/assets/fork.PNG" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
@@ -43,7 +57,7 @@ Fork this repository by clicking on the fork button on the top of this page. Thi
 
 # Clone the repository
 
-<img align="right" width="300"  src="./readme-only/clone-terminal.png" alt="fork this repository" />
+<img align="right" width="300"  src="/assets/url.PNG" alt="fork this repository" />
 Now we want to make a local copy of the project.<br> That is a copy saved on your own machine.
 
 - Now clone this repo to your machine. Click on the clone button and then click the copy to clipboard icon.
@@ -58,7 +72,7 @@ git clone "url you just copied"
 For example:
 
 ```bash
-git clone https://github.com/this-is-you/Contribute-To-This-Project.git
+git clone https://github.com/Juadebfm/Vanilla-JS-Projects
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -88,11 +102,11 @@ git checkout -b add-my_branch
 - Now you have created a new branch separate from the master.
 - For the next steps make sure you are working in this branch. You will see the name of the branch you are on at the bottom left of the text editor youre using where it says `your-branch-name`.
 
-# Open the contributos.md file first
+# Open the contributors.md file first
 
 Now we need to open the file we are going to edit with your favourite code editor.
 
-- The `index.html` file is directly in the `Contribute-To-This-Project` folder.
+- The `contributors.md` file is directly in the `Vanilla-JS-Projects` folder.
 
 - Now you have the file you are going to edit open in your editor and you are ready to start making changes to it.
 
@@ -105,7 +119,7 @@ Now we need to open the file we are going to edit with your favourite code edito
 - **Replace 'Juadeb Gabriel' with your name**
 - **Note: Change "Twitter" to any social media account of your choice**
 - **Insert the URL of your Twitter account `(https://twitter.com/your-user-name)`**
-- **Type your in your handle**
+- **Type in your handle**
 
 # Commit your changes
 
