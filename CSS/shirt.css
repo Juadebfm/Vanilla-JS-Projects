@@ -1,0 +1,55 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+#container {
+  height: 100%;
+  width: 100%;
+}
+
+#product-svg {
+  position: relative;
+  z-index: 2;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  mix-blend-mode: multiply;
+}
+
+#product-shape {
+  fill: #dbed64;
+}
+
+.jscolor {
+  position: fixed;
+  bottom: 4em;
+  right: 4em;
+  z-index: 3;
+  padding: 1em;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button {
+  position: fixed;
+  bottom: 4em;
+  right: 4em;
+  z-index: 3;
+  padding: 1em;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}

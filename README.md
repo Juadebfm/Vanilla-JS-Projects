@@ -16,7 +16,7 @@
 
 > For first time contributers
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below. The ideation for this project comes from a awesome mentor [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops) and his resource [Codrops](http://www.codrops.com) filled with awesome resources i suggest you checkout.
 
 > For more confortable developers
 
@@ -42,7 +42,7 @@ If you are a new developer and you are wondering if you need to learn Git and Gi
 
 ![Contributor Card](/assets/b.PNG "Contributor Card")
 
-You are going to contribute a card just like this one to this [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ "https://syknapse.github.io/Contribute-To-This-Project"). It will include your name, your Twitter handle, a short description, and 3 links to useful resources for web developers that you recommend.
+For everyone forking this repo, you have to contribute to the contributors list as shown above or else your PRʻs will not be accepted. [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ "https://syknapse.github.io/Contribute-To-This-Project"). It will include your name, your Twitter handle, a short description, and 3 links to useful resources for web developers that you recommend.
 
 You will make a copy of the card template inside the HTML file and customise it with your own information.
 
