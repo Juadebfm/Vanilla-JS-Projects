@@ -14,11 +14,10 @@
 - [Step 3 Create a new branch](#step-3-create-a-new-branch)
 - [Step 4 Open the index.html file](#step-4-open-the-indexhtml-file)
 - [Step 5 Copy the card template](#step-5-copy-the-card-template)
-- [Step 6 Apply your changes](#step-6-apply-your-changes)
-  - [We'll now start editing html, changing the customizable fields in our card.](#well-now-start-editing-html-changing-the-customizable-fields-in-our-card)
-  - [Tell us something about you](#tell-us-something-about-you)
-- [Step 7 Commit your changes](#step-7-commit-your-changes)
-- [Step 8 Push your changes to github](#step-8-push-your-changes-to-github)
+- [Apply your changes](#apply-your-changes)
+  - [We'll now start editing contributors.md (and other additional files you might have added), changing the customizable lines as advised.](#well-now-start-editing-contributorsmd-and-other-additional-files-you-might-have-added-changing-the-customizable-lines-as-advised)
+- [Commit your changes](#commit-your-changes)
+- [Push your changes to github](#push-your-changes-to-github)
 - [Submit a PR(Pull Request)](#submit-a-prpull-request)
 - [Celebrate](#celebrate)
 - [Next Steps](#next-steps)
@@ -115,11 +114,11 @@ We will now make a copy of our card templates and make changes to it
 
 - This now is **your** card for you to customise and edit.
 
-# Step 6 Apply your changes
+# Apply your changes
 
-## We'll now start editing html, changing the customizable fields in our card.
+## We'll now start editing contributors.md (and other additional files you might have added), changing the customizable lines as advised.
 
-<img align="right" width="400" height="auto"  src="./readme-only/change-name.PNG" alt="change-name" />
+<img align="right" width="400" height="auto"  src="./assets/b.PNG" alt="change-name" />
 
 - **Replace 'Name' with your name**
 - **Note: Don't change `class="name"`**
@@ -130,44 +129,24 @@ We will now make a copy of our card templates and make changes to it
 
 - **If you prefer to use a contact other than Twitter you will need to replace the twitter icon `<i class="fa fa-twitter"></i>` by going to [Font Awesome Icons](http://fontawesome.io/icons/) searching for the right icon and replacing only the `fa-twitter` part with the new icon like `fa-facebook` for example.<br> Then follow the same steps above.**
 
-## Tell us something about you
-
-  <img align="right" width="300"  src="./readme-only/change-about.PNG" alt="change-name" title="tell us something about you"/>
-
-- **Keep it short and sweet. Think about it more like a tweet than a blog post**
-
-- **Share with the community 3 links to resources that are useful for web development**
-- **This can be anything, a video, a talk, a podcast, an article, a reference, or a tool**
-- **If you are a beginner don't be intimidated by this, share whatever you know even if you think it's basic. You'll be surprised how many people will benefit**
-
-![Change resources](readme-only/change-resources.PNG "Insert link, write a short description, and type the name of the resource")
-
-- **Link: Insert the link `href="here"` replacing the `#`**
-- **Title: Write a brief description `title="here"`**
-- **Name: Write the resource's name in the text field `>here</a>`**
-
-* Make sure you have **saved all your changes**.
-* **Test your changes**. THIS IS IMPORTANT! Open the html file in your browser (by double clicking on it for example) and see what your card will look like on the site. See that the entire page still looks the same and nothing is broken. Click your links and make sure they are working. Open the console (Ctrl + Shift + J (Windows / Linux) or Cmd + Opt + J (Mac)) and check that there are no error messages.
-* Great, you have finished editing your code! The next steps will send your changes to GitHub and then submit them to be merged with the main project.
-
-# Step 7 Commit your changes
+# Commit your changes
 
 - Now open the terminal in your project directory and run `git status` and you'll notice that there are no changes made in git.
 - You can add those changes you made using the `git-add` command
 
 ```bash
-git add index.html
+git add .
 ```
 
 - Now commit those changes using the `git commit` command
 
 ```bash
-git commit -m "Add <your-name> card info"
+git commit -m "Add <your-name>"
 ```
 
 - Replacing `<your-name>` with your name.
 
-# Step 8 Push your changes to github
+# Push your changes to github
 
 - Now that youve commited your changes, they are only saved locally in your local computer.
 - Synchronizing local changes with your repository on GitHub is called a `Push`. You are "pushing" the changes from your local repository to the remote repository on GitHub.
@@ -193,7 +172,7 @@ git push origin -u <add-your-branch-name>
 
   ***
 
-  <img align="right" width="600" title="This is usually towards the top of the page, under the description and above the project files and folders" src="./readme-only/pull-request.PNG" alt="change-name" />
+  <img align="right" width="600" title="This is usually towards the top of the page, under the description and above the project files and folders" src="/assets/pull.png" alt="Pull Requests" />
 
 - **Click on the `Compare and pull request`**
 
@@ -201,15 +180,15 @@ git push origin -u <add-your-branch-name>
 * **REMEMBER _you are trying to merge your branch with the original project not with the `Master` branch on your fork_.**
 * **The image below gives you an idea of how the header of your pull request should look like.**
 * **On the left is the original project, followed by the master branch. On the right is your fork and the branch you created.**
-  ![Submit a Pull Request](readme-only/pull-request-branches.PNG "Click on the green button! don't be scared")
+  ![Submit a Pull Request](/assets/pull-request.png "Click on the green button! don't be scared")
 
-<img align="right" width="600" title="This is usually towards the top of the page, under the description and above the project files and folders" src="./readme-only/pull-request-open.PNG" alt="change-name" />
+<img align="right" width="600" title="This is usually towards the top of the page, under the description and above the project files and folders" src="./assets/pull.png" alt="change-name" />
 
 ---
 
 - Don't be fazed by all the options. You only need to do these three steps for now.
 - Leave the option `Allow edits from maintainers` ticked.
-- Now, a _Pull Request_ will be sent to the project maintainer. As soon as it is reviewed and accepted your changes will appear on the [project web page](https://syknapse.github.io/Contribute-To-This-Project "Contribute To This Project web page").
+- Now, a _Pull Request_ will be sent to the project maintainer. As soon as it is reviewed and accepted your changes will appear on the main project repo
 
 ---
 
