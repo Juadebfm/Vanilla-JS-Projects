@@ -10,7 +10,7 @@
 
 > ## **Announcement:**
 >
-> Would you like to become a maintainer on this project and help keeping it going? If you are interested, read the [maintainer's guide](maintainer_guide.md) and send me a DM on [Twitter](https://twitter.com/Juadeb1).
+> Would you like to become a maintainer on this project and help keeping it going? If you are interested, read the [maintainer's guide](/maintainers.md) and send me a DM on [Twitter](https://twitter.com/Juadeb1).
 
 ## Introduction
 
@@ -48,13 +48,11 @@ If you are a new developer and you are wondering if you need to learn Git and Gi
 
 ![Contributor Card](/assets/b.PNG "Contributor Card")
 
-For everyone forking this repo, you have to contribute to the contributors list as shown above or else your PRʻs will not be accepted. [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ "https://syknapse.github.io/Contribute-To-This-Project"). It will include your name, your socials as shown above.
+For everyone forking this repo, you have to contribute to the contributors list as shown above or else your PRʻs will not be accepted.It will include your name, your socials as shown above.
 
 You will customise the first example with your own information.
 
 ## [If you're comfortable with the terminal go to this tutorial](/terminal_tutorial.md)
-
-<h4 align="center">Translations</h4>
 
 <h4 align="center">Quick Access Index</h4>
 
@@ -67,7 +65,7 @@ First let's get setup to do the work
 
 1. Login to your GitHub account. If you don't yet have an account then [join GitHub](https://github.com/join). I recommend that you do the [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/) before you continue.
 1. Download [GitHub Desktop app](https://desktop.github.com/).
-   - Alternatively if you are comfortable using Git on the command line you can do so [Here is the link to the CLI tutorial](terminal-tutorial.md).
+   - Alternatively if you are comfortable using Git on the command line you can do so [Here is the link to the CLI tutorial](/terminal_tutorial.md).
    - If you use [VS Code](https://code.visualstudio.com/ "Visual Studio Code website") it comes with integrated Git and allows you to do what we need straight from the editor.
    - However the simplest and easiest way to follow this tutorial is using GitHub Desktop.
 
@@ -85,10 +83,10 @@ _Estimated time: Less than 30 minutes_.
 
 - The objective here is to make a copy of this project and place it in your account.
 - A repository (repo) is how a project is called on GitHub and a fork is a copy of it.
-- Make sure you are on the [main page](https://github.com/Syknapse/Contribute-To-This-Project "https://github.com/Syknapse/Contribute-To-This-Project") of this repo.
+- Make sure you are on the [main page](https://github.com/Juadebfm/Vanilla-JS-Projects "https://github.com/Juadebfm/Vanilla-JS-Projects") of this repo.
 
-| <ul><li>Click on the _Fork_ button</li></ul> | ![Fork](readme-only/fork.PNG "click on 'Fork'") |
-| :------------------------------------------- | ----------------------------------------------: |
+| <ul><li>Click on the _Fork_ button</li></ul> | ![Fork](/assets/fork.PNG "click on 'Fork'") |
+| :------------------------------------------- | ------------------------------------------: |
 
 - You now have a complete copy of the project in your own account.
   [↑ Go to top ↑](#quick-access-index)
