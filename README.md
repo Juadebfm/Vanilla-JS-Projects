@@ -10,16 +10,23 @@
 
 > ## **Announcement:**
 >
-> Would you like to become a maintainer on this project and help keeping it going? If you are interested, read the [maintainer's guide](maintainer_guide.md) and send me a DM on [Twitter](https://twitter.com/Syknapse).
+> Would you like to become a maintainer on this project and help keeping it going? If you are interested, read the [maintainer's guide](maintainer_guide.md) and send me a DM on [Twitter](https://twitter.com/Juadeb1).
 
 ## Introduction
 
-This is a tutorial to help first-time contributors to participate in a simple and easy project.
+> For first time contributers
+
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+
+> For more confortable developers
+
+More experienced developers can examine the projects in this repository and enhance, add to, or improve on them based on their current level of expertise.
 
 ### Objectives
 
 - Make a contribution to an open source project.
 - Get more comfortable in using GitHub.
+- Improve on the projects in this repo
 
 #### Who is this for?
 
