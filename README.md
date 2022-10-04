@@ -156,15 +156,13 @@ _Estimated time: Less than 30 minutes_.
 - This means that Git has recorded all the **saved** changes.
 - You can see this reflected in the app. Everything you have added to the file will be in green, and deletions will show as red.
 
-| <ul><li>The next step is called _Commit_</li><li>This roughly means "confirm the changes"</li></ul> | ![Commit changes](readme-only/commit.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left") |
-| :-------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <ul><li>The next step is called _Commit_</li><li>This roughly means "confirm the changes"</li></ul>                                                                                                                              | ![Commit changes](/assets/commit.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left") |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Commit changes](/assets/commit.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left")                                                         |
 
-| <ul><li>This is what your GitHub desktop header should look like</li><li>Notice the fork symbol next to the project name in `Current repository`</li><li>Your `Current branch` will have the name you gave it in step 3</li></ul> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Commit changes](readme-only/commit-header.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left")                                               |
-
-| <ul><li>To _Commit_ you must fill in the _Summary_ field</li><li>This is the commit message explaining what you have changed</li><li>In this case "Add my card information" would be a reasonable message</li><li>Optionally you can add a more detailed _Description_</li><li>Click the _Commit_ button. Your button will say something like `Commit to "your-branch-name"`</li></ul> | ![Write commit message and commit](readme-only/commit-message.PNG "Write a brief commit message in the 'summary' input, and click 'commit'") |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------: |
+| <ul><li>To _Commit_ you must fill in the _Summary_ field</li><li>This is the commit message explaining what you have changed</li><li>In this case "Add my information" would be a reasonable message</li><li>Optionally you can add a more detailed _Description_</li><li>Click the _Commit_ button. Your button will say something like `Commit to "your-branch-name"`</li></ul> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -173,7 +171,6 @@ _Estimated time: Less than 30 minutes_.
 - Your changes are now saved or committed. But they are saved only locally, that is on your computer.
 - Synchronizing local changes with your repository on GitHub is called a _Push_. You are "pushing" the changes from your local repository to the remote repository on GitHub.
 
-| <ul><li>Click the _Push_ button</li></ul> | ![Push to GitHub](readme-only/push.PNG "Push your changes to GitHub, click on the 'Push' button") |
 | :---------------------------------------- | ------------------------------------------------------------------------------------------------: |
 
 - After a few seconds the operation is complete and now you have exactly the same copy of this branch on your machine as well as on GitHub.
@@ -189,8 +186,8 @@ _Estimated time: Less than 30 minutes_.
 - Go to the main page of **your fork** on GitHub (it will have the fork icon and your own user name at the top).
 - Towards the top of the repo you will see a highlighted pull request message with a green button.
 
-| <ul><li>Click on the `Compare and pull request`</li></ul> | ![Submit a Pull Request](readme-only/pull-request.PNG "This is usually towards the top of the page, under the description and above the project files and folders") |
-| :-------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <ul><li>Click on the `Compare and pull request`</li></ul> | ![Submit a Pull Request](/assets/pull-request.png "This is usually towards the top of the page, under the description and above the project files and folders") |
+| :-------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | <ul><li>This is what the `Open a pull request` page looks like.</li><li>REMEMBER _you are trying to merge your branch with the original project not with the `Master` branch on your fork_.</li><li>The image below gives you an idea of how the header of your pull request should look like.</li><li>On the left is the original project, followed by the master branch. On the right is your fork and the branch you created.</li></ul> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
