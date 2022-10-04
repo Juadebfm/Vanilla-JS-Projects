@@ -138,7 +138,7 @@ _Estimated time: Less than 30 minutes_.
 
 - Now we need to open the file we are going to edit with your favourite code editor.
 - Find the project folder on your computer. If you have kept the default this should be something like `your-computer > Documents > GitHub > Vanilla-JS-Projects`
-- The `index.html` file is directly in the `Vanilla-JS-Projects` folder.
+- The `contributor.md` file is directly in the `Vanilla-JS-Projects` folder.
 
 | <ul><li>Open your code editor (Sublime, VS Code, Atom..etc) and use the `Open file` command and locate the contributors.md file in the main directory of the project</li><li>Alternatively you can locate the file on your hard drive, right click, and open with your editor</li></ul> | ![Open File](/assets/b.PNG "Open index.html in your text editor") |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------: |
