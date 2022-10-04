@@ -196,7 +196,7 @@ git push origin -u <add-your-branch-name>
 
 That's it. You have done it! You have now contributed to open source on GitHub.
 
-You have added code to a live web page: [Juadeb/Vanilla-JS-Projects](https://github.com/Juadebfm/Vanilla-JS-Projects)
+You have added code to an open source project: [Juadeb/Vanilla-JS-Projects](https://github.com/Juadebfm/Vanilla-JS-Projects)
 
 Your changes **won't be visible immediately**; first they have to be reviewed, accepted, and merged by the project maintainer. Once they are merged you will recieve notifications.
 
