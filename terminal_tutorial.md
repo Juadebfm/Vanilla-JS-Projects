@@ -10,10 +10,9 @@
 - [Contribution Steps](#contribution-steps)
 - [Setup](#setup)
 - [Step 1 Fork This Repository](#step-1-fork-this-repository)
-- [Step 2 Clone the repository](#step-2-clone-the-repository)
-- [Step 3 Create a new branch](#step-3-create-a-new-branch)
-- [Step 4 Open the index.html file](#step-4-open-the-indexhtml-file)
-- [Step 5 Copy the card template](#step-5-copy-the-card-template)
+- [Clone the repository](#clone-the-repository)
+- [Create a new branch](#create-a-new-branch)
+- [Open the contributos.md file first](#open-the-contributosmd-file-first)
 - [Apply your changes](#apply-your-changes)
   - [We'll now start editing contributors.md (and other additional files you might have added), changing the customizable lines as advised.](#well-now-start-editing-contributorsmd-and-other-additional-files-you-might-have-added-changing-the-customizable-lines-as-advised)
 - [Commit your changes](#commit-your-changes)
@@ -42,7 +41,7 @@ Fork this repository by clicking on the fork button on the top of this page. Thi
 - A repository (repo) is how a project is called on GitHub and a fork is a copy of it.
 - Make sure you are on the [main page](https://github.com/Juadebfm/Vanilla-JS-Projects "https://github.com/Juadebfm/Vanilla-JS-Projects") of this repo.
 
-# Step 2 Clone the repository
+# Clone the repository
 
 <img align="right" width="300"  src="./readme-only/clone-terminal.png" alt="fork this repository" />
 Now we want to make a local copy of the project.<br> That is a copy saved on your own machine.
@@ -64,12 +63,12 @@ git clone https://github.com/this-is-you/Contribute-To-This-Project.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-# Step 3 Create a new branch
+# Create a new branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
-cd Contribute-To-This-Project
+cd Vanilla-JS-Projects
 ```
 
 Now create a branch using the `git checkout` command
@@ -81,7 +80,7 @@ git checkout -b your-new-branch-name
 For example:
 
 ```bash
-git checkout -b add-kilonzo-card
+git checkout -b add-my_branch
 ```
 
 **Do NOT work on the `master` branch**
@@ -89,7 +88,7 @@ git checkout -b add-kilonzo-card
 - Now you have created a new branch separate from the master.
 - For the next steps make sure you are working in this branch. You will see the name of the branch you are on at the bottom left of the text editor youre using where it says `your-branch-name`.
 
-# Step 4 Open the index.html file
+# Open the contributos.md file first
 
 Now we need to open the file we are going to edit with your favourite code editor.
 
@@ -97,37 +96,16 @@ Now we need to open the file we are going to edit with your favourite code edito
 
 - Now you have the file you are going to edit open in your editor and you are ready to start making changes to it.
 
-# Step 5 Copy the card template
-
-We will now make a copy of our card templates and make changes to it
-
-- **At the top of the html file, under the `<head>` and `<header>` sections you will find the section labelled `== TEMPLATE ==`**
-- **Copy everything within the red square in the image, from the `Contributor card START` comment to the `Contributor card END` comment**
-
-![Copy card template](readme-only/card-copy.PNG "Copy the card template")
-
-- **Paste the whole thing directly below the comment indicating it**
-- **Make sure there is a single line of space between your card start and the last card end. It's good practice to keep our code as clear as possible**
-- **Never use a linters or style formatters. The project has Prettier setup**
-
-![Paste card template](readme-only/card-paste.PNG "Paste below the indicated line")
-
-- This now is **your** card for you to customise and edit.
-
 # Apply your changes
 
 ## We'll now start editing contributors.md (and other additional files you might have added), changing the customizable lines as advised.
 
-<img align="right" width="400" height="auto"  src="./assets/b.PNG" alt="change-name" />
+<img align="right" width="400" height="auto"  src="./assets/Capture.PNG" alt="change-name" />
 
-- **Replace 'Name' with your name**
-- **Note: Don't change `class="name"`**
-- **Insert the URL of your Twitter account `href="Insert URL here"`**
-- **Type your handle in the text field**
-
-<img src="./readme-only/change-contact.PNG" alt="change-contact" />
-
-- **If you prefer to use a contact other than Twitter you will need to replace the twitter icon `<i class="fa fa-twitter"></i>` by going to [Font Awesome Icons](http://fontawesome.io/icons/) searching for the right icon and replacing only the `fa-twitter` part with the new icon like `fa-facebook` for example.<br> Then follow the same steps above.**
+- **Replace 'Juadeb Gabriel' with your name**
+- **Note: Change "Twitter" to any social media account of your choice**
+- **Insert the URL of your Twitter account `(https://twitter.com/your-user-name)`**
+- **Type your in your handle**
 
 # Commit your changes
 
