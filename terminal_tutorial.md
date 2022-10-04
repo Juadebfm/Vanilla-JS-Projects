@@ -24,7 +24,6 @@
 - [Next Steps](#next-steps)
 - [Aknowledgements](#aknowledgements)
 - [Project Info](#project-info)
-- [PR Info](#pr-info)
 - [Maintainers](#maintainers)
 
 # Setup
@@ -251,15 +250,6 @@ This project is heavily influenced by [Skynapse](https://github.com/Syknapse) gr
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![GitHub issues](https://img.shields.io/github/issues/Juadebfm/Vanilla-JS-Projects.svg)
-
-# PR Info
-
-![Repo PR's](https://badgen.net/github/prs/Juadebfm/Vanilla-JS-Projects)
-![Open PR's](https://badgen.net/github/open-prs/Juadebfm/Vanilla-JS-Projects)
-![Close PR's](https://badgen.net/github/closed-prs/Juadebfm/Vanilla-JS-Projects)
-![Merged PR's](https://badgen.net/github/merged-prs/Juadebfm/Vanilla-JS-Projects)
-
-![Repo Stat](https://github-readme-stats.vercel.app/api/pin/?username=Juadebfm&repo=Vanilla-JS-Projects&theme=dark&show_owner=true)
 
 # Maintainers
 
