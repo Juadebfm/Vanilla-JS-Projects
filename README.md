@@ -140,53 +140,12 @@ _Estimated time: Less than 30 minutes_.
 - Find the project folder on your computer. If you have kept the default this should be something like `your-computer > Documents > GitHub > Vanilla-JS-Projects`
 - The `index.html` file is directly in the `Vanilla-JS-Projects` folder.
 
-| <ul><li>Open your code editor (Sublime, VS Code, Atom..etc) and use the `Open file` command and locate the index.html file in the main directory of the project</li><li>Alternatively you can locate the file on your hard drive, right click, and open with your editor</li></ul> | ![Open index file](readme-only/index-open.PNG "Open index.html in your text editor") |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------: |
+| <ul><li>Open your code editor (Sublime, VS Code, Atom..etc) and use the `Open file` command and locate the contributors.md file in the main directory of the project</li><li>Alternatively you can locate the file on your hard drive, right click, and open with your editor</li></ul> | ![Open File](/assets/explorer.PNG "Open index.html in your text editor") |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------: |
 
 - Now you have the file you are going to edit open in your editor and you are ready to start making changes to it.
 
 ---
-
-<h5 align="center">Step 5: Copy the card template</h5>
-
-- We will make a copy of the card template to start working on it
-
-| <ul><li>At the top of the html file, under the `<head>` and `<header>` sections you will find the section labelled `== TEMPLATE ==`</li><li>Copy everything within the red square in the image, from the `Contributor card START` comment to the `Contributor card END` comment</li></ul> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Copy card template](readme-only/card-copy.PNG "Copy the card template")                                                                                                                                                                                                                 |
-
-| <ul><li>Paste the whole thing directly below the comment indicating it</li><li>Make sure there is a single line of space between your card start and the last card end. It's good practice to keep our code as clear as possible</li><li>Never use a linters or style formatters. The project has Prettier setup</li></ul> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Paste card template](readme-only/card-paste.PNG "Paste below the indicated line")                                                                                                                                                                                                                                        |
-
-- This now is **your** card for you to customise and edit.
-
----
-
-<h5 align="center">Step 6: Apply your changes</h5>
-
-- We'll now start editing html, changing the customizable fields in our card.
-
-| <ul><li>Replace 'Name' with your name</li><li>Note: Don't change `class="name"`</li></ul> | ![Change name](readme-only/change-name.PNG "Type your name") |
-| :---------------------------------------------------------------------------------------- | -----------------------------------------------------------: |
-
-| <ul><li>Insert the URL of your Twitter account `href="Insert URL here"`</li><li>Type your handle in the text field</li></ul> |
-| :--------------------------------------------------------------------------------------------------------------------------- |
-| ![Change contact](readme-only/change-contact.PNG "Insert a link to your Twitter account and type your handle")               |
-
-- If you prefer to use a contact other than Twitter you will need to replace the twitter icon `<i class="fa fa-twitter"></i>` by going to [Font Awesome Icons](http://fontawesome.io/icons/) searching for the right icon and replacing only the `fa-twitter` part with the new icon like `fa-facebook` for example. Then follow the same steps above.
-
-| <ul><li>Tell us something about you</li><li>Keep it short and sweet. Think about it more like a tweet than a blog post</li></ul> | ![Change about](readme-only/change-about.PNG "Write a sentence about you") |
-| :------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------: |
-
-| <ul><li>Share with the community 3 links to resources that are useful for web development</li><li>This can be anything, a video, a talk, a podcast, an article, a reference, or a tool</li><li>If you are a beginner don't be intimidated by this, share whatever you know even if you think it's basic. You'll be surprised how many people will benefit</li></ul> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Change resources](readme-only/change-resources.PNG "Insert link, write a short description, and type the name of the resource")                                                                                                                                                                                                                                   |
-| <ul><li>Link: Insert the link `href="here"` replacing the `#`</li><li>Title: Write a brief description `title="here"`</li><li>Name: Write the resource's name in the text field `>here</a>`</li></ul>                                                                                                                                                               |
-
-- Make sure you have **saved all your changes**.
-- **Test your changes**. THIS IS IMPORTANT! Open the html file in your browser (by double clicking on it for example) and see what your card will look like on the site. See that the entire page still looks the same and nothing is broken. Click your links and make sure they are working. Open the console (Ctrl + Shift + J (Windows / Linux) or Cmd + Opt + J (Mac)) and check that there are no error messages.
-- Great, you have finished editing your code! The next steps will send your changes to GitHub and then submit them to be merged with the main project.
 
 ---
 
