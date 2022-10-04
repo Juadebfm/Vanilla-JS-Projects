@@ -116,16 +116,16 @@ _Estimated time: Less than 30 minutes_.
 - Once the repo has been cloned and you have it open in GitHub desktop it is time to create a new branch.
 - A branch is a way to keep your changes separate from the main part of the project called `Master`. For example if things go wrong and you are not happy with your changes you can simply delete the branch and the main project won't be affected.
 
-| <ul><li>Click on _Current branch_</li><li>Then click on _New_</li></ul> | ![Create branch](readme-only/branch-new.PNG "Click on 'Branch', then 'New'") |
-| :---------------------------------------------------------------------- | ---------------------------------------------------------------------------: |
+| <ul><li>Click on _Current branch_</li><li>Then click on _New_</li></ul> | ![Create branch](/assets/branch1.PNG "Click on 'Branch', then 'New'") |
+| :---------------------------------------------------------------------- | --------------------------------------------------------------------: |
 
-| <ul><li>Give your branch a name</li><li>Click `Create branch`</li></ul> | ![Name branch](readme-only/branch-name.PNG "Name your branch") |
-| :---------------------------------------------------------------------- | -------------------------------------------------------------: |
+| <ul><li>Give your branch a name</li><li>Click `Create branch`</li></ul> | ![Name branch](/assets/branch1.PNG "Name your branch") |
+| :---------------------------------------------------------------------- | -----------------------------------------------------: |
 
-- You can name it whatever you want, but since this is a branch to add a card with your name to the project, calling it `your-name-card` is good practice because it keeps the intention of this branch clear.
+- You can name it whatever you want, but since this is a branch to add your name to the project, calling it `your-name` is good practice because it keeps the intention of this branch clear.
 
-| <ul><li>Publish your new branch to GitHub</li></ul> | ![Name branch](readme-only/branch-publish.PNG "Click publish to send the new branch to your remote repo on GitHub") |
-| :-------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------: |
+| <ul><li>Publish your new branch to GitHub</li></ul> |
+| :-------------------------------------------------- |
 
 - Now you have created a new branch separate from the master.
 - For the next steps make sure you are working in this branch. You will see the name of the branch you are on at the top center of the GitHub desktop app where it says _Current branch_.
@@ -134,11 +134,11 @@ _Estimated time: Less than 30 minutes_.
 
 ---
 
-<h5 align="center">Step 4: Open the index.html file</h5>
+<h5 align="center">Step 4: Open the contributors.md file</h5>
 
 - Now we need to open the file we are going to edit with your favourite code editor.
-- Find the project folder on your computer. If you have kept the default this should be something like `your-computer > Documents > GitHub > Contribute-To-This-Project`
-- The `index.html` file is directly in the `Contribute-To-This-Project` folder.
+- Find the project folder on your computer. If you have kept the default this should be something like `your-computer > Documents > GitHub > Vanilla-JS-Projects`
+- The `index.html` file is directly in the `Vanilla-JS-Projects` folder.
 
 | <ul><li>Open your code editor (Sublime, VS Code, Atom..etc) and use the `Open file` command and locate the index.html file in the main directory of the project</li><li>Alternatively you can locate the file on your hard drive, right click, and open with your editor</li></ul> | ![Open index file](readme-only/index-open.PNG "Open index.html in your text editor") |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------: |
