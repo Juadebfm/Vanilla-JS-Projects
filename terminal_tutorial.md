@@ -19,8 +19,8 @@
   - [Tell us something about you](#tell-us-something-about-you)
 - [Step 7 Commit your changes](#step-7-commit-your-changes)
 - [Step 8 Push your changes to github](#step-8-push-your-changes-to-github)
-- [Step 9 Submit a PR(Pull Request)](#step-9-submit-a-prpull-request)
-- [Step 10 Celebrate](#step-10-celebrate)
+- [Submit a PR(Pull Request)](#submit-a-prpull-request)
+- [Celebrate](#celebrate)
 - [Next Steps](#next-steps)
 - [Aknowledgements](#aknowledgements)
 - [Project Info](#project-info)
@@ -181,7 +181,7 @@ git push origin -u <add-your-branch-name>
 
 - After a few seconds the operation is complete and now you have exactly the same copy of this branch on your machine as well as on GitHub.
 
-# Step 9 Submit a PR(Pull Request)
+# Submit a PR(Pull Request)
 
 - This is the moment you have been waiting for; submitting a _Pull Request_ (PR).
 - So far all the work you have done has been on the fork of the project, which as you remember resides on your own account of GitHub.
@@ -213,13 +213,13 @@ git push origin -u <add-your-branch-name>
 
 ---
 
-# Step 10 Celebrate
+# Celebrate
 
 That's it. You have done it! You have now contributed to open source on GitHub.
 
-You have added code to a live web page: [https://syknapse.github.io/Contribute-To-This-Project](https://syknapse.github.io/Contribute-To-This-Project)
+You have added code to a live web page: [Juadeb/Vanilla-JS-Projects](https://github.com/Juadebfm/Vanilla-JS-Projects)
 
-Your changes **won't be visible immediately**; first they have to be reviewed, accepted, and merged by the project maintainer. Once they are merged your card should be visible and live on the page.
+Your changes **won't be visible immediately**; first they have to be reviewed, accepted, and merged by the project maintainer. Once they are merged you will recieve notifications.
 
 It is very normal for a reviewer to ask for changes on a PR. Think of it as good practice if it happens to you. Keep an eye for comments and requested changes. Once you make the requested changes (back in your branch) all you have to do is to commit and push your changes. The PR will automatically update with the new changes.
 
