@@ -165,13 +165,13 @@ _Estimated time: Less than 30 minutes_.
 - Your changes are now saved or committed. But they are saved only locally, that is on your computer.
 - Synchronizing local changes with your repository on GitHub is called a _Push_. You are "pushing" the changes from your local repository to the remote repository on GitHub.
 
-| :---------------------------------------- | ------------------------------------------------------------------------------------------------: |
+| :---------------------------------------- |
 
 - After a few seconds the operation is complete and now you have exactly the same copy of this branch on your machine as well as on GitHub.
 
 ---
 
-<h5 align="center">Step 9: Submit a PR(Pull Request)</h5>
+<h5 align="center">Step 7: Submit a PR(Pull Request)</h5>
 
 - This is the moment you have been waiting for; submitting a _Pull Request_ (PR).
 - So far all the work you have done has been on the fork of the project, which as you remember resides on your own account of GitHub.
@@ -185,22 +185,20 @@ _Estimated time: Less than 30 minutes_.
 
 | <ul><li>This is what the `Open a pull request` page looks like.</li><li>REMEMBER _you are trying to merge your branch with the original project not with the `Master` branch on your fork_.</li><li>The image below gives you an idea of how the header of your pull request should look like.</li><li>On the left is the original project, followed by the master branch. On the right is your fork and the branch you created.</li></ul> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Open a Pull Request](readme-only/pull-request-branches.PNG "You are requesting to merge your branch from your fork into the master branch of the original project")                                                                                                                                                                                                                                                                      |
+| ![Open a Pull Request](/assets/pull.png "You are requesting to merge your branch from your fork into the master branch of the original project")                                                                                                                                                                                                                                                                                           |
 
-| <ul><li>Create a pull request:</li><li>Write a title</li><li>Add optional information in the description</li><li>Click `Create pull request`</li></ul> | ![Submit a Pull Request](readme-only/pull-request-open.PNG "Click the green button. Don't be scared!") |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------: |
+| <ul><li>Create a pull request:</li><li>Write a title</li><li>Add optional information in the description</li><li>Click `Create pull request`</li></ul> | ![Submit a Pull Request](/assets/pull.png "Click the green button. Don't be scared!") |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------: |
 
 - Don't be fazed by all the options. You only need to do these three steps for now.
 - Leave the option `Allow edits from maintainers` ticked.
-- Now, a _Pull Request_ will be sent to the project maintainer. As soon as it is reviewed and accepted your changes will appear on the [project web page](https://syknapse.github.io/Contribute-To-This-Project "Contribute To This Project web page").
+- Now, a _Pull Request_ will be sent to the project maintainer.
 
 ---
 
-<h5 align="center">Step 10: Celebrate!!</h5>
+<h5 align="center">Step 8: Celebrate!!</h5>
 
 That's it. You have done it! You have now contributed to open source on GitHub.
-
-You have added code to a live web page: [https://syknapse.github.io/Contribute-To-This-Project](https://syknapse.github.io/Contribute-To-This-Project)
 
 Your changes **won't be visible immediately**; first they have to be reviewed, accepted, and merged by the project maintainer. Once they are merged your card should be visible and live on the page.
 
@@ -216,40 +214,30 @@ I promise I will try to review and merge as soon as possible but I do this in my
 
 - Come back in a while to check for your merged Pull Request.
 - You should receive an email from GitHub when your changes have been approved, or if additional changes are requested. And when the PR is finally merged with the master and your card has been added.
-- If you found this project **useful** please give it a :star: star :star: at the top of the page and **Tweet** about it to help spread the word [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode "Tweet this project")
-- You can **follow me** and get in touch on [Twitter](https://twitter.com/Syknapse "@Syknapse") or [using any of these other options](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")
-- This is an open source project so apart from contributing your card you are welcome to help fix bugs, improvements, or new features. Open an [issue](https://help.github.com/articles/creating-an-issue/ "Mastering Issues | GitHub Guides") or send a new [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ "Creating a pull request from a fork | GitHub Help")
-- To help improve our community take a look at the GitHub [Discussions](https://github.com/Syknapse/Contribute-To-This-Project/discussions) tab located next to Pull Requests. This area is a place to introduce yourself, go into deeper discussions on Open Source, and communicate with the Project Maintainers. Will you help us build out this feature and enhance our community?
+- If you found this project **useful** please give it a :star: star :star: at the top of the page and **Tweet** about it to help spread the word [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Juadebfm&url=https://github.com/Juadebfm/Vanilla-JS-Projects&hashtags=opensource "Tweet this project")
+- You can **follow me** and get in touch on [Twitter](https://twitter.com/Juadeb1 "@Juadeb1")
+- This is an open source project so apart from contributing your name and socials you are welcome to help fix bugs, improvements, or new features. Open an [issue](https://help.github.com/articles/creating-an-issue/ "Mastering Issues | GitHub Guides") or send a new [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ "Creating a pull request from a fork | GitHub Help")
+- To help improve our community discussion will be here [Discussions](https://github.com/Juadebfm/Vanilla-JS-Projects/discussions) tab located next to Pull Requests. This area is a place to introduce yourself, go into deeper discussions on Open Source, and communicate with the Project Maintainers. Will you help us build out this feature and enhance our community?
 - **Thanks for contributing to this project**. Now you can go ahead and try contributing to other projects; look for the ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) label for beginner-friendly contribution options.
-- I'm also looking for collaborators to give me a hand in reviewing and merging PRs. If you would like to get more advanced Git practice please send me a DM on Twitter and read the [maintainer's guide](maintainer_guide.md).
+- I'm also looking for collaborators to give me a hand in reviewing and merging PRs. If you would like to get more advanced Git practice please send me a DM on Twitter and read the [maintainer's guide](maintainers.md).
 
 <h4 align="center">Acknowledgements</h4>
 
-This project is heavily influenced by [Roshan Jossey's](https://github.com/Roshanjossey) great [first-contributions](https://github.com/Roshanjossey/first-contributions) project with its excellent tutorial.
-
-It is also particularly inspired by the great community around [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) The Google Challenge Scholarship: Front-End Web Dev, class of 2017 Europe.
+This project is heavily influenced by [Skynapse](https://github.com/Syknapse) great [first-contributions](https://github.com/Syknapse/Contribute-To-This-Project) project with its excellent tutorial. And also by my silent mentor [Codrops](https://github.com/codrops)
 
 <h4 align="center">Project Info</h4>
 
-[![Licence Badge](https://badgen.net/github/license/Syknapse/Contribute-To-This-Project)](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/LICENSE)
+[![Licence Badge](https://badgen.net/github/license/Juadebfm/Vanilla-JS-Projects)](https://github.com/Juadebfm/Vanilla-JS-Projects/blob/master/LICENSE)
 
-![Hibi-Ciento Project](https://img.shields.io/website-up-down-aqua-red/https/syknapse.github.io/Contribute-To-This-Project/)
+<!-- ![Hibi-Ciento Project](https://img.shields.io/website-up-down-aqua-red/https/) -->
+
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![GitHub issues](https://img.shields.io/github/issues/Syknapse/Contribute-To-This-Project.svg)
-
-<h4 align="center">PR info:</h4>
-
-![Repo PR's](https://badgen.net/github/prs/Syknapse/Contribute-To-This-Project)
-![Open PR's](https://badgen.net/github/open-prs/Syknapse/Contribute-To-This-Project)
-![Close PR's](https://badgen.net/github/closed-prs/Syknapse/Contribute-To-This-Project)
-![Merged PR's](https://badgen.net/github/merged-prs/Syknapse/Contribute-To-This-Project)
-
-![Repo Stat](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&theme=dark&show_owner=true)
+![GitHub issues](https://img.shields.io/github/issues/Juadebfm/Vanilla-JS-Projects.svg)
 
 <h4 align="center">Maintainers</h4>
 
-![Repo Contributors](https://badgen.net/github/contributors/Syknapse/Contribute-To-This-Project/?label=Maintainers)
+![Repo Contributors](https://badgen.net/github/contributors/Juadebfm/Vanilla-JS-Projects/?label=Maintainers)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Juadebfm/Vanilla-JS-Projects)
 
 [Back to the top &uparrow;](#introduction)
