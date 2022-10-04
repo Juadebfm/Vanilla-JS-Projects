@@ -98,8 +98,8 @@ _Estimated time: Less than 30 minutes_.
 - Now we want to make a local copy of the project. That is a copy saved on your own machine.
 - Open the GitHub desktop app. In the app:
 
-| <ul><li>Click on _File_ then _Clone repository_</li></ul> | ![Clone](readme-only/clone.PNG "click clone repository") |
-| :-------------------------------------------------------- | -------------------------------------------------------: |
+| <ul><li>Click on _Add_ then _Clone repository_</li></ul> | ![Clone](/assets/clone.PNG "click clone repository") |
+| :------------------------------------------------------- | ---------------------------------------------------: |
 
 | <ul><li>You will see a list of your projects and forks on GitHub.</li><li>Select `<your-github-username>/Contribute-To-This-Project`.</li><li>Click _Clone_</li></ul> | ![Clone project](readme-only/clone-project.PNG "click on <your-github-username>/Contribute-To-This-Project") |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------: |
