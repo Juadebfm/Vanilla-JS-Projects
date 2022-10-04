@@ -52,7 +52,7 @@ For everyone forking this repo, you have to contribute to the contributors list 
 
 You will customise the first example with your own information.
 
-# [If you're comfortable with the terminal go to this tutorial](/terminal-tutorial.md)
+## [If you're comfortable with the terminal go to this tutorial](/terminal_tutorial.md)
 
 <h4 align="center">Translations</h4>
 
