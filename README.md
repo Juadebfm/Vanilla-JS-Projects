@@ -14,11 +14,17 @@
 
 ## Introduction
 
+> IDEATION
+
+The ideation for this project comes from a awesome mentor, follow through on his socials: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops) and his resource website: [Codrops](http://www.codrops.com) filled with awesome resources i suggest you checkout.
+
+The ultimate goal is to make this project into a fully responsive website and to help beginners navigate the habit of contributing to a codebase and learn how to create pull request and collaborate with others. You can add to, remove or create issues you think will improve this projects.
+
 > For first time contributers
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below. The ideation for this project comes from a awesome mentor [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops) and his resource [Codrops](http://www.codrops.com) filled with awesome resources i suggest you checkout.
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-> For more confortable developers
+> For more comfortable developers
 
 More experienced developers can examine the projects in this repository and enhance, add to, or improve on them based on their current level of expertise.
 
@@ -42,7 +48,7 @@ If you are a new developer and you are wondering if you need to learn Git and Gi
 
 ![Contributor Card](/assets/b.PNG "Contributor Card")
 
-For everyone forking this repo, you have to contribute to the contributors list as shown above or else your PRʻs will not be accepted. [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ "https://syknapse.github.io/Contribute-To-This-Project"). It will include your name, your Twitter handle, a short description, and 3 links to useful resources for web developers that you recommend.
+For everyone forking this repo, you have to contribute to the contributors list as shown above or else your PRʻs will not be accepted. [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ "https://syknapse.github.io/Contribute-To-This-Project"). It will include your name, your socials as shown above.
 
 You will make a copy of the card template inside the HTML file and customise it with your own information.
 
