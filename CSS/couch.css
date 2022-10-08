@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700);
+@import url('https://fonts.googleapis.com/css?family=Poppins:900i');
 body,
 html {
   height: 100%;
@@ -89,7 +90,7 @@ body.fade {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
 
-button {
+/* button {
   font-size: 1.5rem;
   border-radius: 5px;
   padding: 10px 12px;
@@ -97,6 +98,96 @@ button {
   border: none;
   filter: drop-shadow(0 0 0.75rem black);
   cursor: pointer;
+} */
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#btn{
+    display: flex;
+    padding: 4px 5px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    
+    align-items: center;
+    color: white;
+    background: #25e635;
+    transition: 1s;
+    box-shadow: 6px 6px 0 black;
+    transform: skewX(-10deg);
+}
+
+#btn:focus {
+   outline: none; 
+}
+
+#btn:hover {
+    transition: 0.5s;
+    box-shadow: 10px 10px 0 #FBC638;
+}
+
+#btn span:nth-child(2) {
+    transition: 0.5s;
+    margin-right: 0px;
+}
+
+#btn:hover  span:nth-child(2) {
+    transition: 0.5s;
+    margin-right: 45px;
+}
+
+  span {
+    transform: skewX(15deg) 
+  }
+
+  span:nth-child(2) {
+    width: 10px;
+    margin-left: 30px;
+    position: relative;
+    top: 12%;
+  }
+  
+/**************SVG****************/
+
+path.one {
+    transition: 0.4s;
+    transform: translateX(-60%);
+}
+
+path.two {
+    transition: 0.5s;
+    transform: translateX(-30%);
+}
+
+#btn:hover path.three {
+    animation: color_anim 1s infinite 0.2s;
+}
+
+#btn:hover path.one {
+    transform: translateX(0%);
+    animation: color_anim 1s infinite 0.6s;
+}
+
+#btn:hover path.two {
+    transform: translateX(0%);
+    animation: color_anim 1s infinite 0.4s;
+}
+
+/* SVG animations */
+
+@keyframes color_anim {
+    0% {
+        fill: white;
+    }
+    50% {
+        fill: #FBC638;
+    }
+    100% {
+        fill: white;
+    }
 }
 
 @media (max-width: 940px) {
